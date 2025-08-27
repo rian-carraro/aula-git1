@@ -5,9 +5,9 @@ Neste arquivo será apresentado os comandos git para uso futuro.
 Para que o GIT avise e saiba quem fez as alterações é necessário configurar o usuário nas configurações globais do git.
  
 ```bash
-git config --global user.name "Dárcio José de Sousa Junior"
+git config --global user.name "Rian carraro"
  
-git config --global user.email "darciosousa663@gmail.com"
+git config --global user.email "riancarraro@gmail.com"
 ```
  
 ## Estando dentro de uma pasta
